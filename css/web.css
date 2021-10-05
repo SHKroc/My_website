@@ -1,0 +1,30 @@
+body {
+  background-color: white;
+}
+
+
+.My_WebSite{
+  color: black;
+  text-align: center;
+}
+.Algorithm {
+  position: static;
+  color: gold;
+  width: 200px;
+  height: 80px;
+  border: 2px solid gray;
+  border-style: outset;
+  padding: 10px;
+  font-size: 0.8em;
+  float: left;
+}
+.Onlinelecture{
+  color: gold;
+  width: 200px;
+  height: 80px;
+  border: 2px solid gray;
+  border-style: outset;
+  padding: 10px;
+  font-size: 0.8em;
+  float: left;
+}
