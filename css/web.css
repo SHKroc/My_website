@@ -28,3 +28,13 @@ body {
   font-size: 0.8em;
   float: left;
 }
+.math{
+  color: gold;
+  width: 200px;
+  height: 80px;
+  border: 2px solid gray;
+  border-style: outset;
+  padding: 10px;
+  font-size: 0.8em;
+  float: left;
+}
